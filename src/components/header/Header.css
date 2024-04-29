@@ -1,0 +1,12 @@
+.header-wrapper {
+  position: fixed;
+  
+  background-color: black;
+  color: white;
+  width: 100vw;
+  height: 4em;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
